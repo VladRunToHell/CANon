@@ -2,12 +2,12 @@
 Проект по разработке нетипичных методов управления БПЛА
 
 TO DO:
-1)   Введение
-2)   IDEF0
-3)   Use case
-4)   Activity diagram
-5)   ТЗ 34.602-89
-6)   ERD
-7)   Class diagram
-8)   Deployment diagram
-9)   DFD
+1)   Введение - скоро будет v1.0
+2)   IDEF0 - есть v0.1 - скоро будет v1.0
+3)   Use case - скоро будет v1.0
+4)   Activity diagram - в ближайшее время появится v1.0
+5)   ТЗ 34.602-2020 - есть рыба
+6)   ERD - надо ли?
+7)   Class diagram - скоро будет v1.0
+8)   Deployment diagram - скоро будет v1.0
+9)   DFD - есть v0.1 - скоро будет версия v1.0
