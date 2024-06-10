@@ -1,12 +1,11 @@
 1. Введение
 2. IDEF0 from v0.1 to v1.0
 3. Use case
-4. Activity diagram
-5. ТЗ 34.602-2020 from v0.1 to v1.0
-6. ERD from v0.1 to v1.0
-7. Class diagram
-8. Deployment diagram
-9. DFD from v0.1 to v1.0
-10. Goal tree from v0.1 to v1.0
-11. Super-Sub system diagram from v0.1 to v1.0
-12. Class analysis diagram
+4. ТЗ 34.602-2020 from v0.1 to v1.0
+5. ERD from v0.1 to v1.0
+6. Class diagram
+7. Deployment diagram
+8. DFD from v0.1 to v1.0
+9. Goal tree from v0.1 to v1.0
+10. Super-Sub system diagram from v0.1 to v1.0
+11. Class analysis diagram
