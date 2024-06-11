@@ -1,9 +1,8 @@
 1. Введение
 2. IDEF0 from v0.1 to v1.0
-3. Use case
-4. ТЗ 34.602-2020 from v0.1 to v1.0
-5. ERD from v0.1 to v1.0
-6. Class diagram
-7. Deployment diagram
-8. DFD from v0.1 to v1.0
-10. Super-Sub system diagram from v0.1 to v1.0
+3. ТЗ 34.602-2020 from fish to v1.0
+4. ERD from v0.1 to v1.0
+5. Class diagram
+6. Deployment diagram
+7. DFD from v0.1 to v1.0
+8. Super-Sub system diagram from v0.1 to v1.0
