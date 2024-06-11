@@ -6,6 +6,4 @@
 6. Class diagram
 7. Deployment diagram
 8. DFD from v0.1 to v1.0
-9. Goal tree from v0.1 to v1.0
 10. Super-Sub system diagram from v0.1 to v1.0
-11. Class analysis diagram
